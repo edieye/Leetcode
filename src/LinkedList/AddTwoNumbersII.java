@@ -1,4 +1,7 @@
-import java.util.List;
+package LinkedList;
+
+import LinkedList.ListNode;
+
 import java.util.Stack;
 
 /**

@@ -1,3 +1,5 @@
+package LinkedList;
+
 /**
  * Created by edieye on 2017-08-17.
  */
