@@ -30,8 +30,8 @@ public class SearchRotatedArray {
         System.out.println("The min index is: "  + minIndex);
         if (target == nums[minIndex]) return minIndex;
         int start = 0; int end = nums.length -1;
-        if (target >= nums[end]) end = minIndex;
-        if (target < nums[end]) start = minIndex;
+        if (target > nums[end]) end = minIndex;
+        if (target <= nums[end]) start = minIndex;
         while(start <= end){
             int mid = start + (end - start)/2;
             if (target == nums[mid]) {
@@ -49,9 +49,12 @@ public class SearchRotatedArray {
     }
 
     public static void main(String[] args) {
-        int[] nums = {1,3};
+        int[] nums = {4,5,6,7,0,1,2}; //[4,5,6,7,0,1,2]
+        int[] nums1 = {1,3};
+
         SearchRotatedArray obj = new SearchRotatedArray();
-        System.out.println(obj.search(nums, 3));
+        System.out.println(obj.search(nums, 4));
+        System.out.println(obj.search(nums1, 3));
 
     }
 
