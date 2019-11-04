@@ -1,4 +1,4 @@
-package Pointers;
+package Random;
 
 /**
  * Created by edieye on 2019-10-30.
