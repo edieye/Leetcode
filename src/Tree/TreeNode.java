@@ -10,5 +10,6 @@ public class TreeNode {
     int val;
 
     public TreeNode(){};
+    public TreeNode(int val) {this.val = val;}
 
 }
