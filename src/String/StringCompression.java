@@ -8,25 +8,25 @@ public class StringCompression {
     public int compress(char[] chars) {
         //int j = 0;
         //for (int i =0; i < chars.length)
-
+        return 0;
     }
 
-    public void checkCharArray(char[] chars) {
-        for (int i = 0; i < chars.length; i++) {
-            System.out.print(chars[i]);
-        }
-        System.out.println();
-    }
-
-    public static void main(String[] args) {
-        char[] input = {'a', 'a', 'b', 'b', 'c', 'c', 'c'};
-        char[] input1 = {'a','b','b','b','b','b','b','b','b','b','b','b','b'};
-        StringCompression obj = new StringCompression();
-       // System.out.println(obj.compress(input));
-        System.out.println(obj.compress(input1));
-
-
-    }
+//    public void checkCharArray(char[] chars) {
+//        for (int i = 0; i < chars.length; i++) {
+//            System.out.print(chars[i]);
+//        }
+//        System.out.println();
+//    }
+//
+//    public static void main(String[] args) {
+//        char[] input = {'a', 'a', 'b', 'b', 'c', 'c', 'c'};
+//        char[] input1 = {'a','b','b','b','b','b','b','b','b','b','b','b','b'};
+//        StringCompression obj = new StringCompression();
+//       // System.out.println(obj.compress(input));
+//        System.out.println(obj.compress(input1));
+//
+//
+//    }
 
     /*
 
