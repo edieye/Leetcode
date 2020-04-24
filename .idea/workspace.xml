@@ -2,8 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9494cc3-c52b-46bf-a78d-12ca19e3882d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pointers/CheckInclusion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pointers/NumSubarrayProductLessThanK.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/FindMaxAverage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/LongestMountain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/MaxProfit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/MaxProfitI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/ProductArrayExceptSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Greedy/LemonadeChange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LinkedList/AddTwoNumbersII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/LinkedList/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Map/LRUCache$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Map/LRUCache$ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Map/LRUCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Map/TwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Matrices/Search2DMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Pointers/CheckInclusion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Pointers/NumSubarrayProductLessThanK.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Pointers/TrapRainWater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Random/DesignTicTacToe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Random/ValidTicTacToe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Recursion/GenerateParenthesis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Search/FindMin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Search/SearchRotatedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Sort/MergeSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Stack/MinStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/String/ReverseString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/String/ReverseStringIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/String/StringCompression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/LowestCommonAncestor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/MaxDepth.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreePractice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/ZigZagOrderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Trie/Trie$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode/Trie/Trie.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,32 +48,35 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LowestCommonAncestor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/LowestCommonAncestor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MinStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stack/MinStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="15">
               <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String/ReverseString.java">
+      <file leaf-file-name="MinimumFallingPathSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/MinimumFallingPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="43" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="32" selection-end-column="43" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuessNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/GuessNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+              <folding>
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,18 +94,18 @@
       <file leaf-file-name="NumSubarrayProductLessThanK.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Pointers/NumSubarrayProductLessThanK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckInclusion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheckInclusion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Pointers/CheckInclusion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+            <state relative-caret-position="210">
+              <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,11 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LemonadeChange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Greedy/LemonadeChange.java">
+      <file leaf-file-name="ValidMountainArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array/ValidMountainArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="585">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,12 +148,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="e#200#201#0" expanded="false" />
-                <element signature="e#232#233#0" expanded="false" />
-                <element signature="e#1952#1953#0" expanded="false" />
-                <element signature="e#1997#1998#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -186,6 +215,9 @@
         <option value="$PROJECT_DIR$/src/Trie/Trie.java" />
         <option value="$PROJECT_DIR$/src/Pointers/NumSubarrayProductLessThanK.java" />
         <option value="$PROJECT_DIR$/src/Pointers/CheckInclusion.java" />
+        <option value="$PROJECT_DIR$/src/Array/ValidMountainArray.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/MinimumFallingPathSum.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/GuessNumber.java" />
       </list>
     </option>
   </component>
@@ -196,8 +228,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="23" />
+    <option name="x" value="30" />
+    <option name="y" value="113" />
     <option name="width" value="1440" />
     <option name="height" value="808" />
   </component>
@@ -217,8 +249,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -389,9 +420,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DynamicProgramming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BinarySearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,47 +505,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckInclusion">
-    <configuration default="false" name="LemonadeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Greedy.LemonadeChange" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GenerateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Recursion.GenerateParenthesis" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MinimumFallingPathSum">
     <configuration default="false" name="FindMaxAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -508,6 +554,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Pointers.CheckInclusion" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ValidMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Array.ValidMountainArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MinimumFallingPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.MinimumFallingPathSum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -965,19 +1051,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LemonadeChange" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GenerateParenthesis" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FindMaxAverage" />
-      <item index="3" class="java.lang.String" itemvalue="Application.NumSubarrayProductLessThanK" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CheckInclusion" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindMaxAverage" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NumSubarrayProductLessThanK" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CheckInclusion" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ValidMountainArray" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MinimumFallingPathSum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CheckInclusion" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NumSubarrayProductLessThanK" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindMaxAverage" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GenerateParenthesis" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LemonadeChange" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MinimumFallingPathSum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ValidMountainArray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CheckInclusion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NumSubarrayProductLessThanK" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindMaxAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -1011,16 +1097,18 @@
       <workItem from="1587166692073" duration="2566000" />
       <workItem from="1587318926112" duration="309000" />
       <workItem from="1587341380384" duration="1588000" />
-      <workItem from="1587425307851" duration="2579000" />
+      <workItem from="1587425307851" duration="3056000" />
+      <workItem from="1587515474409" duration="2675000" />
+      <workItem from="1587603548535" duration="230000" />
+      <workItem from="1587686546451" duration="2272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67230000" />
+    <option name="totallyTimeSpent" value="72884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="23" width="1440" height="808" extended-state="6" />
-    <editor active="true" />
+    <frame x="30" y="113" width="1440" height="808" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1031,13 +1119,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30167598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30167598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3104435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32331902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1108,28 +1196,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Map/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="89" column="22" lean-forward="true" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Map/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1335,7 +1401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1343,7 +1408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1351,15 +1415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1387,24 +1442,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/FindMaxAverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Trie/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="e#200#201#0" expanded="false" />
-            <element signature="e#232#233#0" expanded="false" />
-            <element signature="e#1952#1953#0" expanded="false" />
-            <element signature="e#1997#1998#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1418,18 +1460,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pointers/NumSubarrayProductLessThanK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="270">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pointers/CheckInclusion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        <state relative-caret-position="210">
+          <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/FindMaxAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/ValidMountainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/MinimumFallingPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/GuessNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
           </folding>
         </state>
       </provider>
